@@ -1,0 +1,6 @@
+Need to add cast animation for tomes to Eirika great lord
+Axe animations for druid and wyvern rider
+Tome animation for wyvern knight
+Animations for new classes war cleric and Halberdier
+Myrrh changes to allow for new stones
+Bow animation for assassin and falconknight

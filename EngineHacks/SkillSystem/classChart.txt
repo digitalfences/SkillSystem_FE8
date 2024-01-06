@@ -1,0 +1,50 @@
+Mage M      -> Sage M (Anima -> Anima + Light)
+            -> Animist (Anima -> Anima + Dark)
+
+Shaman M    -> Druid (Dark -> Dark + Axe)
+            -> Animist (Dark -> Dark + Anima)
+
+Mage F      -> Sage F (Dark -> Dark + Light)
+            -> Animist (Dark -> Dark + Anima)
+
+Troubadour  -> Mage Knight F (Staff -> Staff + Anima)
+            -> Valkyrie (Staff -> Staff + Light)
+
+Cleric      -> Bishop F (Staff -> Staff + Light)
+            -> Valkyrie (Staff -> Dark + Light)
+
+Priest      -> Mage Knight (Staff -> Staff + Anima)
+            -> Bishop M (Staff -> Staff + Light)
+
+Shaman      -> Druid (Dark -> Dark + Axe)
+            -> Animist (Dark -> Dark + Anima)
+
+Monk        -> Sage M (Light -> Anima + Light)
+            -> Bishop M (Staff -> Staff + Light)
+            
+Phys Unit Class Chart
+Wyvern Rider    -> Wyvern Lord (axe / lance)
+                -> Wyvern Knight M (axe / anima)
+Pegasus Knight  -> Falconknight (lance/sword)
+                -> Wyvern Knight F (lance / anima)
+Cavalier        -> Great Knight
+                -> Paladin
+Knight          -> Great Knight
+                -> General
+Myrmidon M      -> Hero         
+Myrmidon F      -> Assassin (sword/bow)
+Myrmidon        -> Swordmaster
+Mercenary       -> Hero
+                -> Ranger
+Thief           -> Rogue
+                -> Assassin (sword/bow)
+Fighter         -> Warrior
+                -> Hero
+Pirate          -> Berserker
+                -> Warrior
+Archer          -> Sniper
+                -> Ranger
+Amelia          -> Knight
+                -> Cavalier
+Ross            -> Pirate
+                -> Fighter

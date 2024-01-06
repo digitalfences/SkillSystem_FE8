@@ -2726,7 +2726,7 @@ is a popular ruler of great virtue.[.][X]
 Iron Sword[X]
 
 # 0x0355
-Slim Sword[X]
+Short Sword[X]
 
 # 0x0356
 Steel Sword[.][X]

@@ -1,0 +1,218 @@
+Infantry
+These units have 5 mobility and promote to 6 move except for the general.
+
+Archer
+Level 1: SureShot
+Level 10: Focus
+Promotions -> 
+            Sniper -> Bow B unique
+            Level 5: Vantage
+            Level 15: Bowfaire
+            Ranger -> Lance Bow C / Sword D
+            Level 5: SealSpd
+            Level 15: Bowbreaker
+
+Lancer(Formerly Soldier) -> Lance D
+Level 1: DefOath
+Level 10: StrOath
+Promotions -> 
+            Halberdier -> Lance B unique
+            Level 5: Impale
+            Level 15: Lancefaire
+            Paladin -> Lance C / Sword D
+            Level 5: QuickBurn
+            Level 15: Charge
+
+Knight -> Lance D
+Level 1: Natural Cover
+Level 10: SteadyStance
+Promotions -> 
+            General -> Lance C / Axe D / Sword D unique
+            Level 5: SlowBurn
+            Level 15: Pavise
+            Great Knight -> Lance C / Axe E / Sword E
+            Level 5: ArmoredBlow
+            Level 15: Ignis
+
+Fighter -> Axe D
+Level 1: Smite
+Level 10: Desperation
+Promotions -> 
+            Warrior -> Axe C / Bow D
+            Level 5: Frenzy
+            Level 15: Counter
+            Oni Chieftain -> Axe C / Anima D unique
+            Level 5: ChaosStyle
+            Level 15: Vengeance
+
+Pirate -> Axe D
+Level 1: Reposition
+Level 10: Despoil
+Promotions -> 
+            Warrior -> Axe C / Bow D
+            Level 5: Frenzy
+            Level 15: Counter
+            Berserker -> Axe B unique
+            Level 5: Wrath
+            Level 15: Axefaire
+
+Mercenary -> Sword D
+Level 1: Swap
+Level 10: StrongRiposte
+Promotions -> 
+            Hero -> Sword C / Axe D unique
+            Level 5: FierceStance
+            Level 15: Axebreaker
+            Ranger -> Sword C / Bow D
+            Level 5: SealSpd
+            Level 15: Bowbreaker
+
+Myrmidon -> Sword D
+Level 1: Pivot
+Level 10: DuelistsBlow
+Promotions -> 
+            Swordmaster -> Sword B unique
+            Level 5: Astra
+            Level 15: Swordfaire
+            Assassin -> Sword C / Bow D
+            Level 5: DeathBlow
+            Level 15: Assassinate
+
+Thief -> Sword D
+Level 1: Pass
+Level 10: Acrobat
+Promotions -> 
+            Rogue -> Sword C unique
+            Level 5: LuckySeven
+            Level 15: Shade
+            Assassin -> Sword C / Bow D
+            Level 5: DeathBlow
+            Level 15: Assassinate
+
+Mages
+These units are similar to infantry but use magic instead of weapons
+
+Mage M -> Anima D
+Level 1: DrawBack
+Level 10: Adept
+Promotions -> 
+            Sage -> Anima C / Light D
+            Level 5: RallyMag
+            Level 15: Tomefaire
+            Mage Knight -> Anima C / Staff D unique
+            Level 5: RallyRes
+            Level 15: Inspiration
+
+Mage F -> Anima D
+Level 1: DrawBack
+Level 10: Adept
+Promotions -> 
+            Druid -> Anima C / Dark D unique
+            Level 5: Corona
+            Level 15: Aegis
+            Sage -> Anima C / Light D
+            Level 5: RallyMag
+            Level 15: Tomefaire
+
+Shaman -> Dark D
+Level 1: Hex
+Level 10: Malefic Aura
+Promotions -> 
+            Druid -> Anima C / Dark D unique
+            Level 5: Corona
+            Level 15: Aegis
+            Summoner unique -> Dark C / Staff D
+            Level 5: Anathema
+            Level 15: Lifetaker
+
+Cleric -> Staff D
+Level 1: Miracle
+Level 10: StaffSavant
+Promotions -> 
+            Winged Host -> Staff C / Lance D
+            Level 5: WardingBlow
+            Level 15: Glacies
+            Valkyrie -> Staff C / Light D
+            Level 5: SealMag
+            Level 15: TomeRangeUp
+
+Priest -> Staff D
+Level 1: HoneLuk
+Level 10: LiveToServe
+Promotions -> 
+            War Cleric -> Staff C / Axe D unique
+            Level 5: RallyDef
+            Level 15: Axefaith
+            Bishop -> Staff C / Light D
+            Level 5: Renewal
+            Level 15: PowerStaff
+
+Monk -> Light D
+Characters: Artur
+Level 1: Gentilhomme
+Level 10: LightWeight
+Promotions -> 
+            Exorcist -> Light C / Bow D unique
+            Level 5: Slayer
+            Level 15: Expertise
+            Bishop -> Light C / Staff D
+            Level 5: Renewal
+            Level 15: PowerStaff
+
+Calvalry
+These units have good mobility and base stats as well as movement, rescue utility, and canto.
+These units gain less exp from fights, and their promotions offer additional movement but little else 
+
+Cavalier -> Lance E / Sword E
+Characters: Franz, Seth(promoted), Orson(promoted)
+Level 1: Canto, Discipline
+Level 10: Open Terrain
+Promotions -> 
+            Paladin -> Lance C / Sword D
+            Characters: Seth
+            Level 5: QuickBurn
+            Level 15: Charge
+
+            Great Knight -> Lance D / Axe D / Sword E (7 move)
+            Characters: Duessel
+            Level 5: ArmoredBlow
+            Level 15: Ignis
+
+Pegasus Knight -> Lance D
+Characters: Vanessa, Tana, Syrene(promoted)
+Level 1: Savior
+Level 10: Camaraderie
+Promotions -> 
+            Falcoknight -> Lance C / Sword D unique
+            Characters: Syrene
+            Level 5: DartingBlow
+            Level 15: Swordbreaker
+            Winged Host -> Lance C / Staff D
+            Level 5: WardingBlow
+            Level 15: Glacies
+
+Dragon Rider -> Lance D
+Characters: Cormag, Glen(promoted), Valter(promoted)
+Level 1: Lunge
+Level 10: Tantivy
+Promotions -> 
+            Dragon Lord -> Lance C / Axe D unique
+            Characters: Glen
+            Level 5: SavageBlow
+            Level 15: Lancebreaker
+            Wyvern Knight -> Lance C / Anima D unique
+            Characters: Valter
+            Level 5: Trample
+            Level 15: GrislyWound
+
+Brunhild -> Staff D
+Characters: L'Arachel
+Level 1: Demoiselle
+Level 10: Countermagic
+Promotions -> 
+            Crusader -> Staff C / Sword D unique
+            Level 5: Arcane Blade
+            Level 15: Vigilance
+            Valkyrie -> Staff C / Light D
+            Level 5: SealMag
+            Level 15: TomeRangeUp

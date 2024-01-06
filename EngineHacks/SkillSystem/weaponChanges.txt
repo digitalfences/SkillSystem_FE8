@@ -1,0 +1,239 @@
+Weapon Strengths By Category
+
+By Atk Power within type
+Axes   
+Dark
+Lances     
+Bows    <->  Anima
+Swords 
+Light
+
+By Accuracy
+Light <-> Swords
+Anima <-> Bows
+Lances
+Axes 
+Dark
+
+By Lightness
+Swords
+Bows <-> Anima
+Light
+Lances
+Axes <-> Dark
+
+Rank E Weapons
+Iron Sword Mt: 6 Hit: 90 Weight: 5 Crit: 0
+Short Sword Mt: 5 Hit: 95 Weight 3 Crit: 5 (Myrmidon Only)
+Winged Spear Mt: 5 Hit: 80 Weight: 4 Crit: 0
+Iron Lance Mt: 8 Hit: 80 Weight: 7 Crit: 0
+Iron Axe Mt: 9 Hit: 70 Weight: 9 Crit: 0
+Iron Bow Mt: 7 Hit: 85 Weight: 7 Crit: 0 (Eff. vs Fliers)
+Light Mt: 4 Hit: 95 Weight: 4 Crit: 0 (Magic)
+Fire Mt: 6 Hit: 85 Weight: 6 Crit: 0 (Magic)
+Miasma Mt: 8 Hit: 70 Weight: 8 Crit: 0 (Magic)
+
+Rank D Weapons
+Steel Sword Mt: 8 Hit:75 Weight:10 Crit: 0
+Rapier Mt: 5 Hit:85 Weight:5 Crit: 5 (Quick Riposte Skill, Myrmidon Only)
+Steel Lance Mt: 10 Hit: 70 Weight: 13 Crit: 0
+Halberd Mt: 8 Hit: 75 Weight: 12 Crit: 0 (Eff vs. Horse)
+Steel Axe Mt: 12 Hit: 65 Weight 15 Crit: 0
+Hammer Mt: 9 Hit: 55 Weight: 10 Crit: 0 (Eff. vs Armor)
+Steel Bow Mt: 9 Hit: 70 Weight: 11 (Eff. vs Flier)
+Thunder Mt: 6 Hit: 75 Weight: 7 (Eff. vs Armor) 
+
+Rank C Weapons
+Elfire Mt: 10 Hit: 85 Weight: 10 (Magic)
+Shine Mt: 7 Hit: 90 Weight: 7 (Magic, Eff. vs Monsters)
+Luna Mt: 0 Hit: 70 Weight: 12 (Magic, Ignores Def)
+Nosferatu Mt: 10 Hit: 70 Weight: 14 (Magic, NosferatuEffect, Staff)
+Bloodthirst mt: 7 Hit: 80 Weight: 9 Crit: 15 (MyrmidonOnly, Fury, Lifetaker, DevilEffect)
+Claymore Mt: 10 Hit: 60 Weight: 13
+Zanbato Mt: 7 Hit: 65 Weight: 9 Crit: 5 (Myrmidon Only, Eff. vs Horse)
+Killing Edge Mt: 5 Hit: 85 Weight: 9 Crit: 20
+Blessed Blade Mt: 6 Hit:70 Weight 10 (Eff. vs Monsters, Renewal)
+Wyrmslayer Mt: 7 Hit: 65 Weight: 9 (Eff. vs Dragons)
+Killer Lance
+Awlspike - Armor Piercing Lance
+Dragonspear
+Killer Axe
+Dragon Axe
+Swordreaver
+
+
+Rank B Weapons
+Lancereaver
+Axereaver
+Swordslayer
+
+Rank A Weapons 
+Martial Sword Mt: 13 Hit: 80 weight: 8
+Rank S Weapons
+
+Best in class of each type
+Iron Weapon - Axe
+Steel Weapon - Axe
+Premium Weapon - Regal Sword
+Horse Weapon - Lance (Halberd at Rank D)
+Armor Weapon - Axe (Hammer at Rank D)
+Dragon Weapon - Lance (Dragonspear at Rank B)
+Monster Weapon - Sword (Only option, Light Brand at rank C)
+Midrange - Javelin, Short Spear, Spear at ranks (D, B, A)
+High Crit - Sword Killing Edge at Rank C
+
+
+Basic Spells
+Anima || Light || Dark
+Fire || Lightning || Miasma
+
+Boss weapons
+
+Lyon: Naglfar
+
+
+Advanced Spells
+*Anima*
+*Anima is usable by mages, sages, and mage knights*
+*Anima is generally the best anti-infantry magic*
+Fire - Basic
+Thunder - Effective against armor
+Elfire - Very powerful, heavy anima magic
+Fimbulvetr - Reverse Magic triangle
+Bolting - Long Range Anti-Armor
+Excalibur - Legendary Tome (Effective against fliers)
+
+*Dark*
+*Dark is usable by shamans, druids, and summoners and sages*
+*Dark is anti-mage and anti-calvary, with heavy damage at the cost of speed*
+Miasma - Basic
+Luna - Ignores Res
+Fenrir - Reverse Magic Triangle
+Spikes - Anti-calvary
+Eclipse - Powerful, heavy tome
+Gleipnir - Legendary Tome (More powerful luna)
+Naglfar - Forbidden Tome (More powerful fenrir with more range)
+
+*Light*
+*Light is usable by monks, bishops, and sages*
+*Light is good against monsters and has high accuracy and crit rate*
+Lightning - Basic
+Shine - Upgrade basic
+Divine - Effective Against Monsters
+Aura - Reverse Magic triangle
+Purge - Long Range Anti-Monster
+Luce - Legendary Tome (Higher range)
+
+*Staff*
+*Staff is usable by priest, cleric, bishop and sages*
+*Staff is the best healing in the game in addition to other abilities*
+Heal - Heal the target range 1-3 
+Nosferatu - Drain health from the target as an attack Spell
+Recover - Heal the target to full hp
+Physic - Heal from range
+Fortify - Heal in an area
+Restore - Restore a condition
+Silence - Prevent Magic
+Sleep - Give target sleep
+Berserk - Give target berserk
+Warp - Teleport target
+Rescue - Rescue target
+Torch - Light area
+Hammerne - Restore durability
+Unlock - Unlock door
+Barrier - Raise res
+judgement - Petrify effect at 1 range on monsters, heal to allies
+
+*Swords*
+*Swords are used by myrmidons, mercenaries, Eirika, Mage Knights?* 
+*Wyvern Lords, Generals, Cavalier, Paladins, falconknights, rangers, heroes, swordmasters, thieves*
+*Assassins*
+*As the most available weapon type, swords are light compared to axes and bows so that they can be used*
+*Count: 17*
+*Swords have the honor of being the worst weapons early, but high rank swords have good stats and abilities*
+*Are worth the wait. Swordmasters get to use the rarest and finest of blades, the shamsir*
+*Have the best accuracy and lowest weight of all weapons but low attack power, and no anti flier options*
+E: Iron Sword - Common weapon. Average in every sense
+Es: Short Sword - Extremely light sword usable by the dextrous.
+E: Poison Sword - Gives poison condition
+D: Steel Sword - Crudely forged sword for those with strong builds
+Ds: Rapier - Sword excellent in a duel, quick riposte skill
+Cs: Bloodthirst - Sword that may turn on it's wielder
+C: Claymore - Greatsword for the extremely mighty
+A: Regal Sword - Masterwork sword for the finest swordsmen
+A: Brave Sword - Multiattack
+As: Shamshir - Peerless class of sword, with a brittle edge
+Cs: Killing Edge - Brutal edge high crit
+Bs: Estoc - Light sword effective against armor
+C: Wyrmslayer - Dragonslaying blade
+C: Blessed Brand - Effective vs Monsters
+B: Levin Sword - Magic ranged sword
+B: Lancereaver - Reverses triangle
+Cs: Zanbato - Horse chopping sword
+
+*Lances*
+*Count: 12
+*Lances have the best anti-horse weapon and have access to the best 1-2 range physical weapons*
+*High quality at a range of weapon skill levels*
+*Good against sword users but are a bit heavy for their attack power
+E: Iron Lance - Standard issue lance
+D: Steel Lance - heavier lance for armored knights
+B: Silver Lance - Lance fit for the highest quality knights
+A: Brave Lance - Multi-Attack
+C: Killer Lance - High critical hit chance
+D: Halberd - best Anti Horse weapon
+E: Javelin - Serviceable mixed range weaponry
+B: Short Spear - excellent mixed range weaponry
+A: Spear - The ultimate in mixed range weaponry
+C: Awlspike - Armor piercing spear
+C: Dragon Spear - excellent anti-dragon weaponry
+B: Axereaver - reverses weapon triangle
+
+*Axes*
+*Axes are the best anti-armor weapons, and have the most attack power of weapons*
+*They are weak against evasive foes and sword users but good agaist everything else*
+*The simple axes are some of the best
+Iron Axe
+Steel Axe
+Silver Axe
+Bolt Axe
+Brave Axe
+Killer Axe
+Dragon Axe
+Halberd
+Hammer
+Devil Axe
+Hand Axe
+Tomahawk
+Swordreaver
+Swordslayer
+Hatchet
+
+*Bows*
+Iron Bow
+Steel Bow
+Silver Bow
+Poison Bow
+Killer Bow
+Brave Bow
+Short Bow
+Longbow
+
+Weapons with skills added
+Bloodthirst -> Killing Edge with Devil Effect
+Obtained in special joshua focused chapter where he visits a retired swordsmith who haunted by a cursed blade.
+
+Poison Sword and Bow get poisonstrike skill.
+
+Sacred Twins all get skills
+Nidhogg
+Audhulma
+Garm
+Ivaldi
+Siegmund
+Sieglinde
+Excalibur
+Latona
+Gleipnir
+Vidofnir
+Naglfar

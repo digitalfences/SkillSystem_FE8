@@ -3,7 +3,7 @@
 # USAGE: ./MakeHack.sh [quick]
 # If first argument is "quick", then this will not update text or tables
 
-base_dir=$(dirname "$(readlink -f "$0")")
+base_dir="/Users/galenemanuel/SkillSystem_FE8"
 
 # defining buildfile config
 
