@@ -6,9 +6,6 @@ BYTE 00 00
 ALIGN 4
 
 EirikaLordSkillList:
-// Character Personal Skills
-// Eirika Horseguard
-// Ephraim FullMetalBody
 BYTE 01 CharismaID
 BYTE 10 LunaID
 BYTE 00 00
@@ -25,8 +22,8 @@ ALIGN 4
 EirikaGreatLordSkillList:
 BYTE 255 CharismaID
 BYTE 255 LunaID
-BYTE 5 BondID
-BYTE 15 DefiantStrID
+BYTE 5 HolyAuraID
+BYTE 15 DefiantMagID
 BYTE 00 00
 ALIGN 4
 
@@ -36,24 +33,22 @@ BYTE 10 ElbowRoomID
 BYTE 00 00
 
 PaladinSkillList:
-//enemy phase option for cavalier
-//lance sword
-//emilia - Paragon
-//kyle forde franz seth
+//Gallant Physical Unit that thrives deep in enemy territory
 BYTE 255 DisciplineID //learned if spawning
 BYTE 255 ElbowRoomID
-BYTE 5 RallyDefID
-BYTE 15 ChargeID
+BYTE 5 ChargeID
+BYTE 15 ResolveID
 BYTE 00 00
 ALIGN 4
 
 KnightSkillList:
-BYTE 1 SteadyStanceID
-BYTE 10 NaturalCoverID
+BYTE 1 NaturalCoverID
+BYTE 10 SteadyStanceID
 BYTE 00 00
 ALIGN 4
 
 GeneralSkillList:
+// Ultimate Enemy Phase Tank
 BYTE 255 SteadyStanceID
 BYTE 255 NaturalCoverID
 BYTE 5 AegisID
@@ -74,6 +69,7 @@ BYTE 00 00
 ALIGN 4
 
 HeroSkillList:
+// Defensive Anti-Axe Infantry
 BYTE 255 SwapID
 BYTE 255 StrongRiposteID
 BYTE 5  FierceStanceID
@@ -88,6 +84,7 @@ BYTE 00 00
 ALIGN 4
 
 SwordmasterSkillList:
+// Ultimate Offensive Sword Infantry
 BYTE 255 DuelistsBlowID
 BYTE 255 PivotID
 BYTE 5 AstraID
@@ -96,32 +93,35 @@ BYTE 00 00
 ALIGN 4
 
 AssassinSkillList:
+// High damage bow and sword unit
 BYTE 255 AcrobatID
 BYTE 255 PassID
-BYTE 5 ShadeID
+BYTE 5 AssassinateID
 BYTE 15 LifeAndDeathID
 BYTE 00 00
 ALIGN 4
 
 ArcherSkillList:
 BYTE 1 SureShotID
-BYTE 10 CantoPlusID
+BYTE 10 FocusID
 BYTE 00 00
 ALIGN 4
 
 SniperSkillList:
-BYTE 255 CantoPlusID
+// Excellent Enemy phase archer with high crit bow
+BYTE 255 FocusID
 BYTE 255 SureShotID
-BYTE 5 BowfaireID
-BYTE 15 VantageID
+BYTE 5 VantageID
+BYTE 15 BowfaireID
 BYTE 00 00
 ALIGN 4
 
 RangerSkillList:
-BYTE 255 CantoPlusID
+// Best Long range archer
+BYTE 255 FocusID
 BYTE 255 SureShotID
-BYTE 5 ForagerID
-BYTE 15 GaleforceID
+BYTE 5 SealSpdID
+BYTE 15 BowbreakerID
 BYTE 00 00
 ALIGN 4
 
@@ -178,8 +178,8 @@ ALIGN 4
 BishopSkillList:
 BYTE 255 MiracleID
 BYTE 255 StaffSavantID
-BYTE 5 SlayerID
-BYTE 15 RenewalID
+BYTE 5 RenewalID
+BYTE 15 PowerStaffID
 BYTE 00 00
 ALIGN 4
 
@@ -193,24 +193,24 @@ DruidSkillList:
 // can also promote from the brigand class
 BYTE 255 HexID
 BYTE 255 MaleficAuraID
-BYTE 5 DeathBlowID
-BYTE 15 CounterID
+BYTE 5 CoronaID
+BYTE 15 EarthBoostID
 BYTE 00 00
 ALIGN 4
 
 SummonerSkillList:
 BYTE 255 MaleficAuraID
 BYTE 255 HexID
-BYTE 5 VengeanceID
-BYTE 15 BowbreakerID
+BYTE 5 AnathemaID
+BYTE 15 LifetakerID
 BYTE 00 00
 ALIGN 4
 
 RogueSkillList:
 BYTE 255 PassID
 BYTE 255 AcrobatID
-BYTE 5 DespoilID
-BYTE 15 CelerityID
+BYTE 5 LuckySevenID
+BYTE 15 ShadeID
 BYTE 00 00
 ALIGN 4
 
@@ -238,15 +238,21 @@ ALIGN 4
 WarriorSkillList:
 BYTE 255 SmiteID
 BYTE 255 DesperationID
-BYTE 5 PaviseID
-BYTE 15 SwordbreakerID
+BYTE 5 FrenzyID
+BYTE 15 CounterID
 BYTE 00 00
 ALIGN 4
+
+OniChieftainSkillList:
+BYTE 255 SmiteID
+BYTE 255 DesperationID
+BYTE 5 ChaosStyleID
+BYTE 15 DeathBlowID
 
 JourneymanSkillList:
 BrigandSkillList:
 BYTE 1 IntimidateID
-BYTE 10 AxefaithID
+BYTE 10 AlertStanceID
 BYTE 00 00
 ALIGN 4
 
@@ -259,34 +265,51 @@ ALIGN 4
 BerserkerSkillList:
 BYTE 255 RepositionID
 BYTE 255 DespoilID
-BYTE 5 RallyStrID
+BYTE 5 WrathID
 BYTE 15 AxefaireID
 BYTE 00 00
 ALIGN 4
 
 MonkSkillList:
 BYTE 1 BoonID
-BYTE 10 ArdentSacrificeID
+BYTE 10 SlayerID
 BYTE 00 00
 ALIGN 4
 
 PriestSkillList:
-BYTE 1 HoneResID
-BYTE 10 RallyLukID
+BYTE 1 HoneLukID
+BYTE 10 LiveToServeID
 BYTE 00 00
 ALIGN 4
 
+WarClericSkillList:
+BYTE 255 HoneLukID
+BYTE 255 LiveToServeID
+BYTE 5 RallyDefID
+BYTE 15 AxefaithID
+BYTE 00 00
+ALIGN 4
+
+
 PegKnightSkillList:
 BYTE 1 SaviorID
-BYTE 10 DartingBlowID
+BYTE 10 CamaraderieID
 BYTE 00 00
 ALIGN 4
 
 FalcoknightSkillList:
-BYTE 255 DartingBlowID
+BYTE 255 CamaraderieID
 BYTE 255 SaviorID
-BYTE 5 CamaraderieID
-BYTE 15 WardingBlowID
+BYTE 5 DartingBlowID
+BYTE 15 SwordbreakerID
+BYTE 00 00
+ALIGN 4
+
+WingedHostSkillList:
+BYTE 255 CamaraderieID
+BYTE 255 SaviorID
+BYTE 5 WardingBlowID
+BYTE 15 GlaciesID
 BYTE 00 00
 ALIGN 4
 
@@ -298,15 +321,23 @@ ALIGN 4
 
 TroubadourSkillList:
 BYTE 1 DemoiselleID
-BYTE 10 GentilhommeID
+BYTE 10 CountermagicID
+BYTE 00 00
+ALIGN 4
+
+CrusaderSkillList:
+BYTE 255 DemoiselleID
+BYTE 255 CountermagicID
+BYTE 5 ArcaneBladeID
+BYTE 15 VigilanceID
 BYTE 00 00
 ALIGN 4
 
 ValkyrieSkillList:
 BYTE 255 DemoiselleID
-BYTE 255 GentilhommeID
+BYTE 255 CountermagicID
 BYTE 5 SealMagID
-BYTE 15 LifetakerID
+BYTE 15 TomeRangeUpID
 BYTE 00 00
 ALIGN 4
 

@@ -31,11 +31,11 @@
 
 //Weapon Durability
 #define CommonDurability 0
-#define 
-#define CommonTomeDurability 
-#define UncommonTomeDurability 
+#define FragileDurability 20
+#define CommonTomeDurability 30
+#define UncommonTomeDurability 25
 #define SilverDurability 30
-#define LegendaryDurability 30
+#define LegendDurability 30
 
 // Weapon Type
 #define SwordId 0x0
@@ -50,7 +50,8 @@
 
 //Weapon Ability
 #define NoAbility 0x0
-#define NoStatBoost 0x0
+#define NoStats 0x0
+#define NoEffectiveness 0x0
 #define Speed5 0x88aeec4
 #define Skill5 0x88aeed0
 #define Strength5 0x88aef48

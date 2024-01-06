@@ -20,8 +20,8 @@ Promotions ->
             Level 5: Impale
             Level 15: Lancefaire
             Paladin -> Lance C / Sword D
-            Level 5: QuickBurn
-            Level 15: Charge
+            Level 5: Charge
+            Level 15: Resolve
 
 Knight -> Lance D
 Level 1: Natural Cover

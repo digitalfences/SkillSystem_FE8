@@ -21,6 +21,46 @@ Bows <-> Anima
 Light
 Lances
 Axes <-> Dark
+E: Iron Sword - Common weapon. Average in every sense
+Es: Short Sword - Extremely light sword usable by the dextrous.
+E: Poison Sword - Gives poison condition
+D: Steel Sword - Crudely forged sword for those with strong builds
+Ds: Rapier - Sword excellent in a duel, quick riposte skill
+Cs: Bloodthirst - Sword that may turn on it's wielder
+C: Claymore - Greatsword for the extremely mighty
+A: Regal Sword - Masterwork sword for the finest swordsmen
+A: Brave Sword - Multiattack
+As: Shamshir - Peerless class of sword, with a brittle edge
+C: Killing Edge - Brutal edge high crit
+Bs: Estoc - Light sword effective against armor
+C: Wyrmslayer - Dragonslaying blade
+C: Blessed Brand - Effective vs Monsters
+B: Levin Sword - Magic ranged sword
+B: Lancereaver - Reverses triangle
+Cs: Zanbato - Horse chopping sword
+
+
+E
+Iron Sword Mt: 6 Hit: 90 Weight: 5 Crit: 0
+Short Sword Mt: 5 Hit: 95 Weight 3 Crit: 5 (Myrmidon Only)
+D
+Steel Sword Mt: 8 Hit:75 Weight:10 Crit: 0
+Rapier Mt: 5 Hit:85 Weight:5 Crit: 5 (Quick Riposte Skill, Myrmidon Only)
+C
+Bloodthirst mt: 7 Hit: 80 Weight: 9 Crit: 20 (MyrmidonOnly, Fury)
+Claymore Mt: 10 Hit: 60 Weight: 13
+Zanbato Mt: 7 Hit: 65 Weight: 9 Crit: 5 (Myrmidon Only, Eff. vs Horse)
+Killing Edge Mt: 5 Hit: 85 Weight: 9 Crit: 15
+Blessed Blade Mt: 6 Hit:70 Weight 10 (Eff. vs Monsters, Renewal)
+Wyrmslayer Mt: 7 Hit: 65 Weight: 9 (Eff. vs Dragons)
+B
+Lancereaver
+Levin Sword
+Shamshir
+A
+Regal Sword Mt: 13 Hit: 80 weight: 8
+Brave Sword
+S
 
 Rank E Weapons
 Iron Sword Mt: 6 Hit: 90 Weight: 5 Crit: 0
