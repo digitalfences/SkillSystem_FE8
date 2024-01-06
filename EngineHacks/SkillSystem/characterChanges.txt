@@ -1,0 +1,48 @@
+Eirika - Lord F -> GreatLord F
+PSkill: Horseguard +4 def against enemy horse while near horse
+Niche: Low atk but access to magic and myrmidon swords let her target weak def
+CSkills:  Charisma + Poise / DefiantStr + Aether
+Weapons: D Swd -> C Swd/DLight
+
+Seth - Paladin
+PSkill: Savior rescue with no penalty
+Niche: Early power and best rescue paladin
+CSkills: Discipline ElbowRoom -> RallyRes  
+
+Franz - Cavalier -> Paladin / GreatKnight
+PSkill: Knight Aspirant
+Franz joins early, has great overall bases and growths and movement but low con for a paladin
+
+Franze 
+Gilliam
+Vanessa
+Moulder
+Ross
+Garcia
+Neimi
+Colm
+Artur
+Lute
+Natasha
+Joshua
+Ephraim
+One of the best overall combat units, ephraim uses axes and lances. He excels on enemy phase, 
+Skills FullMetalBody + Charisma + Aether / Defiant Spd + Slayer
+Forde
+Kyle
+Tana
+Amelia
+Cormag
+Syrene
+Innes
+Gerik
+Tethys
+Knoll
+Myrrh
+Saleh
+Marisa
+Ewan
+Duessel
+L'arachel
+Dozla
+Rennac

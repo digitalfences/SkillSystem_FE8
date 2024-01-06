@@ -29,6 +29,35 @@
 #define ARank 181
 #define SRank 251
 
+//Weapon Durability
+#define CommonDurability 0
+#define 
+#define CommonTomeDurability 
+#define UncommonTomeDurability 
+#define SilverDurability 30
+#define LegendaryDurability 30
+
+// Weapon Type
+#define SwordId 0x0
+#define LanceId 0x1
+#define AxeId 0x2
+#define BowId 0x3
+#define StaffId 0x4
+#define AnimaId 0x5
+#define LightId 0x6
+#define DarkId 0x7
+#define MonsterId 0xb
+
+//Weapon Ability
+#define NoAbility 0x0
+#define NoStatBoost 0x0
+#define Speed5 0x88aeec4
+#define Skill5 0x88aeed0
+#define Strength5 0x88aef48
+#define Defense5 0x88aef60
+#define Resistance5 0x88aef78
+#define Luck5 0x88aef9c
+
 //Weapon Ability
 #define IsWeapon 0x00000001
 #define IsMagic 0x00000002
