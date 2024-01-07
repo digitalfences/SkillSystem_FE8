@@ -282,13 +282,13 @@ BYTE 10 LiveToServeID
 BYTE 00 00
 ALIGN 4
 
-WarClericSkillList:
-BYTE 255 HoneLukID
-BYTE 255 LiveToServeID
-BYTE 5 RallyDefID
-BYTE 15 AxefaithID
-BYTE 00 00
-ALIGN 4
+//WarClericSkillList:
+//BYTE 255 HoneLukID
+//BYTE 255 LiveToServeID
+//BYTE 5 RallyDefID
+//BYTE 15 AxefaithID
+//BYTE 00 00
+//ALIGN 4
 
 
 PegKnightSkillList:
@@ -305,13 +305,13 @@ BYTE 15 SwordbreakerID
 BYTE 00 00
 ALIGN 4
 
-WingedHostSkillList:
-BYTE 255 CamaraderieID
-BYTE 255 SaviorID
-BYTE 5 WardingBlowID
-BYTE 15 GlaciesID
-BYTE 00 00
-ALIGN 4
+//WingedHostSkillList:
+//BYTE 255 CamaraderieID
+//BYTE 255 SaviorID
+//BYTE 5 WardingBlowID
+//BYTE 15 GlaciesID
+//BYTE 00 00
+//ALIGN 4
 
 ClericSkillList:
 BYTE 1 MiracleID
@@ -325,13 +325,13 @@ BYTE 10 CountermagicID
 BYTE 00 00
 ALIGN 4
 
-CrusaderSkillList:
-BYTE 255 DemoiselleID
-BYTE 255 CountermagicID
-BYTE 5 ArcaneBladeID
-BYTE 15 VigilanceID
-BYTE 00 00
-ALIGN 4
+//CrusaderSkillList:
+//BYTE 255 DemoiselleID
+//BYTE 255 CountermagicID
+//BYTE 5 ArcaneBladeID
+//BYTE 15 VigilanceID
+//BYTE 00 00
+//ALIGN 4
 
 ValkyrieSkillList:
 BYTE 255 DemoiselleID
